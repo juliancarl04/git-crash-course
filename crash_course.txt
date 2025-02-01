@@ -1,4 +1,4 @@
 Name: Julian Carl B. Malolos
 Section: 1b
 Program: BSINFO 
-Address: San Pablo City
+Address: 
